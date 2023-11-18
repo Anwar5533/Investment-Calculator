@@ -1,2 +1,2 @@
 # Investment-Calculator<br>
-Investment-Calculator Project
+Investment-Calculator React-Project
